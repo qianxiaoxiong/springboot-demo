@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.sqlite.JDBC
+    url: jdbc:sqlite:D:\shengran\test\springboot-demo\test.db
+    username: root
+    data-password: root
